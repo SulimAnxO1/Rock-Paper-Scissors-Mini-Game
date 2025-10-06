@@ -41,7 +41,7 @@ Challenge the computer, keep score, and enjoy smooth UI animations — all in a 
 ├── /image            # Assets (rock.png, paper.png, scissors.png)
 └── README.md         # Documentation
 
----
+```
 
 📖 How to Play
 

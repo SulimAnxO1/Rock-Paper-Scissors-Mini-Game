@@ -54,9 +54,7 @@ Scoreboard updates automatically after every round.
 
 🔮 Possible Improvements (Future Enhancements)
 
-✅ Add a Reset Game button.
-
-✅ Add sound effects for clicks and results.
+✅ Adding a Reset Game button.
 
 ✅ Dark/Light mode toggle.
 

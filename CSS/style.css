@@ -47,7 +47,7 @@ img {
   width: 150px;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #11035f;
 }
 
 .choices {
@@ -70,10 +70,10 @@ img {
   height: 8rem;
   line-height: 4rem;
   padding: 1rem;
-  margin-left: 15rem;
-  margin-right: 15rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
   border-radius: 1rem;
-  border: 2px solid black;
+  border: 2px solid #000000;
 }
 
 .score-board:hover {
@@ -82,7 +82,7 @@ img {
 
 .score {
   padding-top: 1rem;
-  margin-right: 3rem;
+  margin-right: 2rem;
 }
 
 .score:hover {
@@ -99,18 +99,19 @@ img {
 }
 
 #msg {
-  background-color: #081b31;
+  background-color: #03244b;
   color: #fff;
   font-size: 2rem;
   display: inline;
   padding: 1rem;
   border-radius: 1rem;
-  border: 2px solid black;
+  border: 2px solid #000000;
 }
 
 #msg:hover {
   cursor: pointer;
   background-color: #0a3463;
+  border: 2px solid #11035f;
 }
 
 #msg:active {
@@ -129,4 +130,16 @@ h3 {
 
 h3:hover {
   opacity: 0.5;
+}
+
+footer {
+  background-color: #081b31;
+  color: white;
+  height: 15rem;
+  margin-top: 30rem;
+}
+
+footer:hover {
+  cursor: default;
+  background-color: #070127;
 }

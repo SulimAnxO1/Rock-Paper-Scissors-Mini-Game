@@ -9,7 +9,7 @@ Challenge the computer, keep score, and enjoy smooth UI animations — all in a 
 
 ## 📸 Preview
 
-![Game Screenshot](./image/preview.png) <!-- Replace with your screenshot path -->
+![Game Screenshot](./image/preview.png)
 
 ---
 

@@ -63,4 +63,3 @@ Scoreboard updates automatically after every round.
 ✅ Multiplayer (player vs. player) support.
 
 ✅ Track win history in localStorage.
-```

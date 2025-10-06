@@ -43,7 +43,7 @@ Challenge the computer, keep score, and enjoy smooth UI animations — all in a 
 
 ```
 
-📖 How to Play
+## 📖 How to Play
 
 Choose Rock, Paper, or Scissors by clicking the icon.
 
@@ -53,7 +53,8 @@ The result (Win / Lose / Draw) is displayed with styled feedback.
 
 Scoreboard updates automatically after every round.
 
-🔮 Possible Improvements (Future Enhancements)
+
+## 🔮 Possible Improvements (Future Enhancements)
 
 ✅ Adding a Reset Game button.
 
